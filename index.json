@@ -1,0 +1,74 @@
+[
+  {
+    "typeName": "AdultPlatformProvider",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/adult-platform-provider.json"
+  },
+  {
+    "typeName": "BrowserKind",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/browser-kind.json"
+  },
+  {
+    "typeName": "ClockStyle",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/clock-style.json"
+  },
+  {
+    "typeName": "DateFormat",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/date-format.json"
+  },
+  {
+    "typeName": "Environment",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/environment.json"
+  },
+  {
+    "typeName": "FontCategory",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/font-category.json"
+  },
+  {
+    "typeName": "FontFamily",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/font-family.json"
+  },
+  {
+    "typeName": "FontSize",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/font-size.json"
+  },
+  {
+    "typeName": "Gender",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/gender.json"
+  },
+  {
+    "typeName": "HealthStatus",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/health-status.json"
+  },
+  {
+    "typeName": "OutboxStatus",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/outbox-status.json"
+  },
+  {
+    "typeName": "SagaStatus",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/saga-status.json"
+  },
+  {
+    "typeName": "SessionStatus",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/session-status.json"
+  },
+  {
+    "typeName": "SnippetSortBy",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/snippet-sort-by.json"
+  },
+  {
+    "typeName": "StorageProvider",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/storage-provider.json"
+  },
+  {
+    "typeName": "Theme",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/theme.json"
+  },
+  {
+    "typeName": "TimeFormat",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/time-format.json"
+  },
+  {
+    "typeName": "UserRole",
+    "url": "https://raw.githubusercontent.com/subscribers-chat/public/refs/heads/main/src/types/user-role.json"
+  }
+]
