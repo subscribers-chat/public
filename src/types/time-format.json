@@ -1,0 +1,12 @@
+[
+  {
+    "name": "TWELVE_HOUR",
+    "code": "12h",
+    "pattern": "h:mm a"
+  },
+  {
+    "name": "TWENTY_FOUR_HOUR",
+    "code": "24h",
+    "pattern": "HH:mm"
+  }
+]

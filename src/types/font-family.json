@@ -1,0 +1,93 @@
+[
+  {
+    "name": "DISPLAY",
+    "primary": "Inter Display",
+    "stack": [
+      "Inter Display",
+      "Inter",
+      "system-ui",
+      "-apple-system",
+      "Segoe UI",
+      "sans-serif"
+    ],
+    "category": "SANS_SERIF"
+  },
+  {
+    "name": "HEADING",
+    "primary": "Inter",
+    "stack": [
+      "Inter",
+      "system-ui",
+      "-apple-system",
+      "Segoe UI",
+      "Roboto",
+      "sans-serif"
+    ],
+    "category": "SANS_SERIF"
+  },
+  {
+    "name": "BODY",
+    "primary": "Inter",
+    "stack": [
+      "Inter",
+      "system-ui",
+      "-apple-system",
+      "Segoe UI",
+      "Roboto",
+      "Helvetica Neue",
+      "Arial",
+      "sans-serif"
+    ],
+    "category": "SANS_SERIF"
+  },
+  {
+    "name": "SERIF",
+    "primary": "Source Serif 4",
+    "stack": [
+      "Source Serif 4",
+      "Source Serif Pro",
+      "Georgia",
+      "Cambria",
+      "Times New Roman",
+      "serif"
+    ],
+    "category": "SERIF"
+  },
+  {
+    "name": "MONO",
+    "primary": "JetBrains Mono",
+    "stack": [
+      "JetBrains Mono",
+      "Fira Code",
+      "SF Mono",
+      "Menlo",
+      "Consolas",
+      "Liberation Mono",
+      "monospace"
+    ],
+    "category": "MONOSPACE"
+  },
+  {
+    "name": "NUMERIC",
+    "primary": "Inter",
+    "stack": [
+      "Inter",
+      "SF Pro Display",
+      "Roboto",
+      "system-ui",
+      "sans-serif"
+    ],
+    "category": "SANS_SERIF"
+  },
+  {
+    "name": "ACCENT",
+    "primary": "Caveat",
+    "stack": [
+      "Caveat",
+      "Bradley Hand",
+      "Comic Sans MS",
+      "cursive"
+    ],
+    "category": "HANDWRITTEN"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LOCAL"
+  },
+  {
+    "name": "DEV"
+  },
+  {
+    "name": "STAGING"
+  },
+  {
+    "name": "PROD"
+  }
+]

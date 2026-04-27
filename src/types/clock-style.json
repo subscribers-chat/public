@@ -1,0 +1,12 @@
+[
+  {
+    "name": "DIGITAL",
+    "code": "digital",
+    "label": "Digital"
+  },
+  {
+    "name": "ANALOG",
+    "code": "analog",
+    "label": "Analog"
+  }
+]

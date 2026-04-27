@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CONTENT",
+    "property": "content"
+  },
+  {
+    "name": "CREATED_AT",
+    "property": "createdAt"
+  },
+  {
+    "name": "USED_COUNT",
+    "property": "usedCount"
+  }
+]

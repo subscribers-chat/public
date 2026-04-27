@@ -1,0 +1,27 @@
+[
+  {
+    "name": "MALE",
+    "code": "male",
+    "label": "Male"
+  },
+  {
+    "name": "FEMALE",
+    "code": "female",
+    "label": "Female"
+  },
+  {
+    "name": "NON_BINARY",
+    "code": "non_binary",
+    "label": "Non-binary"
+  },
+  {
+    "name": "OTHER",
+    "code": "other",
+    "label": "Other"
+  },
+  {
+    "name": "PREFER_NOT_TO_SAY",
+    "code": "prefer_not_to_say",
+    "label": "Prefer not to say"
+  }
+]

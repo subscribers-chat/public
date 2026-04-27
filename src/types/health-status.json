@@ -1,0 +1,14 @@
+[
+  {
+    "name": "UP"
+  },
+  {
+    "name": "DOWN"
+  },
+  {
+    "name": "DEGRADED"
+  },
+  {
+    "name": "UNKNOWN"
+  }
+]

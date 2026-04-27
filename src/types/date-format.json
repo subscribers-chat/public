@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ISO",
+    "code": "iso",
+    "pattern": "yyyy-MM-dd",
+    "example": "2026-04-27"
+  },
+  {
+    "name": "US",
+    "code": "us",
+    "pattern": "MM/dd/yyyy",
+    "example": "04/27/2026"
+  },
+  {
+    "name": "EUROPEAN",
+    "code": "european",
+    "pattern": "dd/MM/yyyy",
+    "example": "27/04/2026"
+  },
+  {
+    "name": "LONG",
+    "code": "long",
+    "pattern": "MMMM d, yyyy",
+    "example": "April 27, 2026"
+  },
+  {
+    "name": "MEDIUM",
+    "code": "medium",
+    "pattern": "MMM d, yyyy",
+    "example": "Apr 27, 2026"
+  },
+  {
+    "name": "DOTTED",
+    "code": "dotted",
+    "pattern": "dd.MM.yyyy",
+    "example": "27.04.2026"
+  }
+]

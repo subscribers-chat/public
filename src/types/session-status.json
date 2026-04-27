@@ -1,0 +1,11 @@
+[
+  {
+    "name": "ACTIVE"
+  },
+  {
+    "name": "IDLE"
+  },
+  {
+    "name": "CLOSED"
+  }
+]
